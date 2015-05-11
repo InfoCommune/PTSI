@@ -1,2 +1,4 @@
 # PTSI
-Class repository
+Dépôt de la classe de PTSI
+Informatique Commune
+
