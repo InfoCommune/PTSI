@@ -1,4 +1,4 @@
 # PTSI
-Dépôt de la classe de PTSI
-Informatique Commune
+# Dépôt de la classe de PTSI
+
 
